@@ -91,7 +91,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SalmanKalangodan/SalmanKalangodan/output/snake.svg" alt="Snake animation" />
-
 ###
 ![Footer](https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg)
